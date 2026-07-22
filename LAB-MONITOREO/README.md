@@ -1,7 +1,7 @@
 # Laboratorio - Monitoreo
 
 ## Objetivo
-Monitorizar el tráfico utilizando un servidor SYSLOG y un servidor FTP
+Monitorizar el tráfico utilizando un servidor SYSLOG, un servidor FTP y un sniffer
 
 ## Tecnologías
 - Cisco Packet Tracer
